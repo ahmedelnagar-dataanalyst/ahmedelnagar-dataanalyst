@@ -10,7 +10,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)!--
 
 ### My GitHub Stats 📈
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedelnagar-dataanalyst&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedelnagar-dataanalyst&show_icons=true&theme=radical&hide_border=false" alt="Ahmed's GitHub stats" />
+</p>
 
 - ### 🚀 Featured Project
 **[Sales & Financial Performance Dashboard](https://github.com/ahmedelnagar-dataanalyst/Sales-Financial-Dashboard-PowerBI)**
