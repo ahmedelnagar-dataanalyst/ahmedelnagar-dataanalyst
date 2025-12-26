@@ -1,11 +1,19 @@
-## Hi there 👋
-
-<!--
+# Hi there, I'm ahmedelnagar-dataanalyst! 👋
+### Data Analyst | Power BI Specialist | Data Storyteller
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)!--
 **ahmedelnagar-dataanalyst/ahmedelnagar-dataanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### My GitHub Stats 📈
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- ### 🚀 Featured Project
+**[Sales & Financial Performance Dashboard](https://github.com/ahmedelnagar-dataanalyst/Sales-Financial-Dashboard-PowerBI)**
+- تحليل شامل لمبيعات بقيمة 18.38M دولار باستخدام Power BI.
+- استخدام DAX المتقدم لإنشاء Tooltips ذكية ونظام تنقل سلس.
+Here is my LinkedIn account: www.linkedin.com/in/ahmed-elnagar-201725394
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
