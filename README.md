@@ -1,7 +1,9 @@
 # Hi there, I'm ahmedelnagar-dataanalyst! 👋
 ### Data Analyst | Power BI Specialist | Data Storyteller
 
+
 -Data Analyst with a passion for turning complex datasets into clear, actionable visual stories. Expert in Power BI, DAX, and SQL, with a focus on UI/UX design to enhance data accessibility and decision-making.
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
