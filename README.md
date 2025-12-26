@@ -1,29 +1,29 @@
-# Hi there, I'm ahmedelnagar-dataanalyst! 👋
+# Hi there, I'm Ahmed! 👋
 
 ### Data Analyst | Power BI Specialist | Data Storyteller
 
-- Data Analyst with a passion for turning complex datasets into clear, actionable visual stories. Expert in Power BI, DAX, and SQL, with a focus on UI/UX design to enhance data accessibility and decision-making.
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- 📊 Data Analyst with a passion for turning complex datasets into clear, actionable visual stories. 
+- 💡 Expert in **Power BI**, **DAX**, and **SQL**, focusing on UI/UX design to enhance data accessibility.
+- 🚀 Exploring data to drive better business decision-making.
 
 ---
 
-
-### Languages and Tools 🛠️
+### 🛠️ Languages and Tools
 <p align="left"> 
-  <a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="powerbi" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="45" height="45"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="excel" width="45" height="45"/>
 </p>
 
----
 ---
 
 ### 🚀 Featured Project
 **[Sales & Financial Performance Dashboard](https://github.com/ahmedelnagar-dataanalyst/Sales-Financial-Dashboard-PowerBI)**
-- تحليل شامل لمبيعات بقيمة 18.38M دولار باستخدام Power BI.
-- استخدام DAX المتقدم لإنشاء Tooltips ذكية ونظام تنقل سلس.
+- تحليل شامل لمبيعات بقيمة **18.38M دولار** باستخدام Power BI.
+- استخدام **DAX** المتقدم لإنشاء Tooltips ذكية ونظام تنقل سلس يشبه التطبيقات.
 
 ---
-🔗 **LinkedIn:** [ahmed-elnagar-201725394](https://www.linkedin.com/in/ahmed-elnagar-201725394)
+
+### 🤝 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elnagar-201725394)
